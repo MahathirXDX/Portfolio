@@ -1,0 +1,173 @@
+{
+  "name": "MD Mahathir",
+  "logo": "M.",
+  "logoImage": "logo.png",
+  "profileImage": "profile.jpg",
+
+  "titles": [
+    "Programmer",
+    "Full Stack Developer",
+    "AI Developer",
+    "Tech Founder",
+    "Cyber Security Enthusiast"
+  ],
+
+  "bio": "I design and build software that feels effortless to use. Over the last few years I've shipped full‑stack products, trained and deployed AI models, and helped small teams ship faster without breaking things. I care about clean systems, fast interfaces, and details most people never notice — but always feel.",
+
+  "email": "hello@mahathir.dev",
+  "phone": "+880 1XXX‑XXXXXX",
+  "location": "Dhaka, Bangladesh",
+  "website": "www.mahathir.dev",
+
+  "social": {
+    "github": "https://github.com/",
+    "linkedin": "https://linkedin.com/",
+    "facebook": "https://facebook.com/",
+    "x": "https://x.com/",
+    "email": "mailto:hello@mahathir.dev"
+  },
+
+  "stats": [
+    { "label": "Years of Experience", "value": 2, "suffix": "+" },
+    { "label": "Projects Completed", "value": 50, "suffix": "+" },
+    { "label": "Happy Clients", "value": 10, "suffix": "+" },
+    { "label": "GitHub Repositories", "value": 80, "suffix": "+" },
+    { "label": "Problems Solved", "value": 600, "suffix": "+" }
+  ],
+
+  "skills": [
+    { "name": "HTML", "percent": 95 },
+    { "name": "CSS", "percent": 92 },
+    { "name": "JavaScript", "percent": 90 },
+    { "name": "Python", "percent": 88 },
+    { "name": "C++", "percent": 75 },
+    { "name": "Java", "percent": 70 },
+    { "name": "React", "percent": 85 },
+    { "name": "NodeJS", "percent": 82 },
+    { "name": "AI", "percent": 78 },
+    { "name": "Cyber Security", "percent": 74 },
+    { "name": "Flutter", "percent": 65 },
+    { "name": "Git", "percent": 90 },
+    { "name": "GitHub", "percent": 90 },
+    { "name": "Linux", "percent": 80 },
+    { "name": "Docker", "percent": 70 }
+  ],
+
+  "services": [
+    {
+      "title": "Web Development",
+      "description": "Fast, responsive websites and web apps built with clean, maintainable code.",
+      "icon": "code"
+    },
+    {
+      "title": "Software Development",
+      "description": "Custom desktop and cross‑platform software tailored to real workflows.",
+      "icon": "layers"
+    },
+    {
+      "title": "AI Development",
+      "description": "Practical AI features — from automation to trained models in production.",
+      "icon": "cpu"
+    },
+    {
+      "title": "Automation",
+      "description": "Scripts and systems that remove repetitive work from your day.",
+      "icon": "zap"
+    },
+    {
+      "title": "Cyber Security",
+      "description": "Security reviews, hardening, and safe‑by‑default architecture.",
+      "icon": "shield"
+    },
+    {
+      "title": "API Development",
+      "description": "Reliable, well‑documented REST and GraphQL APIs that scale.",
+      "icon": "share"
+    },
+    {
+      "title": "UI Design",
+      "description": "Interfaces that feel simple, premium, and easy to trust.",
+      "icon": "figma"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Nova Analytics",
+      "description": "A real‑time analytics dashboard for e‑commerce teams, with live charts and anomaly alerts.",
+      "image": "project-1.jpg",
+      "github": "https://github.com/",
+      "live": "https://example.com/",
+      "tech": ["React", "Node.js", "PostgreSQL"]
+    },
+    {
+      "title": "Sentinel",
+      "description": "A lightweight intrusion‑detection tool that watches network traffic and flags suspicious patterns.",
+      "image": "project-2.jpg",
+      "github": "https://github.com/",
+      "live": "https://example.com/",
+      "tech": ["Python", "Flask", "Linux"]
+    },
+    {
+      "title": "Atlas AI",
+      "description": "An AI writing assistant that adapts tone and structure to match a brand's voice.",
+      "image": "project-3.jpg",
+      "github": "https://github.com/",
+      "live": "https://example.com/",
+      "tech": ["Python", "PyTorch", "FastAPI"]
+    },
+    {
+      "title": "Pulse",
+      "description": "A cross‑platform habit tracker with offline support and gentle daily nudges.",
+      "image": "project-4.jpg",
+      "github": "https://github.com/",
+      "live": "https://example.com/",
+      "tech": ["Flutter", "Firebase"]
+    }
+  ],
+
+  "timeline": {
+    "education": [
+      {
+        "title": "B.Sc. in Computer Science & Engineering",
+        "place": "University of Dhaka",
+        "date": "2022 — 2026",
+        "description": "Focused on distributed systems, machine learning, and applied security."
+      },
+      {
+        "title": "Higher Secondary Certificate (Science)",
+        "place": "Notre Dame College",
+        "date": "2019 — 2021",
+        "description": "Concentration in mathematics and physics."
+      }
+    ],
+    "experience": [
+      {
+        "title": "Founder & Lead Developer",
+        "place": "Independent",
+        "date": "2024 — Present",
+        "description": "Building and shipping full‑stack and AI‑driven products for clients worldwide."
+      },
+      {
+        "title": "Software Engineering Intern",
+        "place": "TechNest Ltd.",
+        "date": "2023 — 2024",
+        "description": "Worked on backend services and internal automation tooling."
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Google Cybersecurity Professional Certificate",
+        "place": "Coursera / Google",
+        "date": "2024",
+        "description": "Network security, threat detection, and incident response fundamentals."
+      },
+      {
+        "title": "Deep Learning Specialization",
+        "place": "DeepLearning.AI",
+        "date": "2023",
+        "description": "Neural networks, CNNs, sequence models, and practical model deployment."
+      }
+    ]
+  }
+}
